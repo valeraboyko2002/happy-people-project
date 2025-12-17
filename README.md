@@ -63,7 +63,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/data_exploration.ipynb
 ```
 
-## 📊 Метрики моделей
+## Метрики моделей
 
 | Модель | R² Score | RMSE | Особенности |
 |--------|----------|------|-------------|
@@ -77,7 +77,7 @@ jupyter notebook notebooks/data_exploration.ipynb
 | Lasso Regression | -0.1643 | 1.1072 | Не подходит для данных |
 
 
-## 🔬 Ключевые инсайты
+## Ключевые инсайты
 
 ### 1. **Линейность данных**
 - Все основные факторы имеют сильную линейную связь с уровнем счастья
@@ -101,7 +101,7 @@ jupyter notebook notebooks/data_exploration.ipynb
 - **Gallup Organization** за методологию
 - **Сообщество Data Science** за инструменты и знания
 
-## 📞 Контакты
+## Контакты
 
 **Автор**: [Ваше Имя]  
 **Telegram**: [t.me/litqx]  
@@ -111,7 +111,7 @@ jupyter notebook notebooks/data_exploration.ipynb
 
 
   
-### 🏆 World Happiness Analysis
+### World Happiness Analysis
   
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-orange)](https://scikit-learn.org)
