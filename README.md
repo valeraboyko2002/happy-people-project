@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ### 3. Запуск анализа
 ```bash
 # Для анализа в Jupyter
-jupyter notebook notebooks/data_exploration.ipynb
+jupyter notebook ndata_exploration.ipynb
 ```
 
 ## Метрики моделей
